@@ -1,32 +1,31 @@
-# DT MONEY - Ignite
+# DTMoney - Projeto #2 Bootcamp Ignite - Rocketseat
 
-Esse projeto foi criado durante o projeto do bootcamp Ignite da Rocketseat. O Dt Money é uma aplicação de controle local de finanças...
 
-## Available Scripts
+## 📖 Sobre 
 
-In the project directory, you can run:
+  Neste projeto do bootcamp Ignite, foram aprofundados os conhecimentos de Hooks, useContext, useEffect e criação de um Custom Hook, tal qual introduzido estilos com Styled.Components;
+  A serve como um controle de gastos pessoais, aceitando entradas e saídas, mostrando sempre os dados atualizados 
 
-### `yarn start`
+## 🚀 Tecnologias
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  Essa aplicação tem seu front-end feito no framework React JS com typescript, e foi estilizado com o Styled components.
+  
+  
+## 📦 Como baixar o projeto
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+   Clonar os repositórios
+   
+    $ git clone https://github.com/freitasDavi/ignite-02-dtmoney
+   
+    # Instalar o node/yarn 
 
-### `yarn test`
+    $choco install yarn
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    # Instalar as dependencias
+  
+    $ yarn install
+    
+    # Inicializar a aplicação
 
-### `yarn build`
+    $ yarn start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Learn More
